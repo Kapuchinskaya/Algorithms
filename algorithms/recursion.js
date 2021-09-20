@@ -39,7 +39,8 @@ function gsd2(n, m) {
 
 // console.log(gsd2(500, 628));
 
-/*get the integers in range (x, y)*/
+/*GET the integers in range (x, y)*/
+/*NOTE: assuming that the input is an integer */
 let arr = [];
 function ints(x, y) {
   if (x === y) return [];
