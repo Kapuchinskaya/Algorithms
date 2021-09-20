@@ -13,7 +13,7 @@ function bubbleSort(array) {
   return array;
 }
 
--console.log(bubbleSort([4, 2, 6, 5, 1, 3]));
+console.log(bubbleSort([4, 2, 6, 5, 1, 3]));
 
 //selectionSort
 function selectionSort(array) {
